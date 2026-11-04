@@ -62,7 +62,8 @@ A licença comercial pretendida é perpétua e destinada a um computador por vez
 
 Dúvidas, problemas técnicos e solicitações de suporte:
 
-**Discord:** [ADICIONE AQUI O LINK DO SEU SERVIDOR]
+**Discord:** [https://discord.gg/mx2bAQpRpD
+]
 
 ## Aviso
 
