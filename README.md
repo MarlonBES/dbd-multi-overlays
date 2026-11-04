@@ -1,8 +1,8 @@
 # DBD Multi Overlays
 
-**Ferramentas e overlays para Dead by Daylight.**
+**Ferramentas e overlays e Timers para Dead by Daylight.**
 
-O DBD Multi Overlays é um aplicativo para Windows desenvolvido para jogadores que desejam personalizar sua experiência e apresentar informações durante transmissões.
+O DBD Multi Overlays é um aplicativo para Windows desenvolvido para jogadores **competitivos** e casuais que desejam personalizar sua experiência e apresentar informações durante transmissões.
 
 Com diferentes ferramentas de acompanhamento e overlays integrados ao OBS Studio, o aplicativo reúne funcionalidades em uma única interface.
 
@@ -10,26 +10,27 @@ Com diferentes ferramentas de acompanhamento e overlays integrados ao OBS Studio
 
 ### Temporizadores
 - Temporizadores personalizáveis.
-- Controles por teclado e gamepad.
+- Controles por teclado e gamepad (controle).
 - Ajuste de duração, cores, ícones e sons.
 - Posicionamento individual dos overlays.
 
 ### Detecção automática
-- Identificação automática de eventos relacionados aos sobreviventes.
-- Temporizadores automáticos por posição do HUD.
+- Identificação automática de ganchos dos sobreviventes.
+- Temporizadores automáticos de Ataque Decisivo (DS) e Resistencia (Endurance) pós gancho por posição do HUD.
 - Monitoramento do jogo em primeiro plano.
 - Captura otimizada para reduzir o consumo de recursos.
 
-### Winstreak
+### Overlay Winstreak
 - Acompanhamento de sequências de vitórias.
 - Registro de resultados.
 - Overlay independente para transmissões.
+- Animações para cada ponto, recorde e derrota.
 
-### Placar de Confronto
+### Overlay Placar de Confronto
 - Personalização dos times.
 - Controle de pontuação.
 - Configuração de sets e Killers.
-- Exibição competitiva para OBS.
+- Exibição competitiva para OBS Studio.
 
 ### Overlay 1v1
 - Configurações próprias para confrontos.
@@ -38,7 +39,7 @@ Com diferentes ferramentas de acompanhamento e overlays integrados ao OBS Studio
 
 ## Integração com OBS Studio
 
-Os widgets compatíveis são disponibilizados por meio de fontes de navegador, utilizando a infraestrutura local do aplicativo.
+Os widgets compatíveis são disponibilizados por meio de fontes de **navegador**, utilizando a infraestrutura local do aplicativo.
 
 Isso permite apresentar os overlays aos espectadores sem criar janelas adicionais sobre o jogo.
 
@@ -47,7 +48,7 @@ Isso permite apresentar os overlays aos espectadores sem criar janelas adicionai
 1. Baixe o instalador disponível na seção **Releases**.
 2. Execute o instalador do DBD Multi Overlays.
 3. Abra o aplicativo.
-4. Configure os overlays e os recursos desejados.
+4. Configure os overlays e os recursos desejadosq.
 5. Adicione os widgets compatíveis como fontes de navegador no OBS Studio.
 
 ## Licenciamento
@@ -62,8 +63,7 @@ A licença comercial pretendida é perpétua e destinada a um computador por vez
 
 Dúvidas, problemas técnicos e solicitações de suporte:
 
-**Discord:** [https://discord.gg/mx2bAQpRpD
-]
+**Discord:** https://discord.gg/mx2bAQpRpD
 
 ## Aviso
 
