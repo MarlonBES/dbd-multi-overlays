@@ -1,32 +1,72 @@
-# DBD Multi Overlays — documentação comercial (preparatória)
+# DBD Multi Overlays
 
-Este repositório reúne documentos internos de preparação para uma possível comercialização do DBD Multi Overlays.
+**Ferramentas e overlays para Dead by Daylight.**
 
-> **Status: não autorizado para lançamento comercial.** Antes de receber pagamentos, ainda é necessário resolver os direitos de uso relacionados a Dead by Daylight e seus assets, confirmar o enquadramento fiscal em Barueri/SP e revisar os documentos jurídicos.
+O DBD Multi Overlays é um aplicativo para Windows desenvolvido para jogadores que desejam personalizar sua experiência e apresentar informações durante transmissões.
 
-## Perfil comercial pretendido
+Com diferentes ferramentas de acompanhamento e overlays integrados ao OBS Studio, o aplicativo reúne funcionalidades em uma única interface.
 
-- Atuação inicialmente como pessoa física, sujeita à confirmação fiscal.
-- Município: Barueri/SP.
-- Pagamento: Pix, com confirmação manual.
-- Licença pretendida: perpétua, para um computador ativo por vez.
-- Emissão: manual, com licenciamento offline v2/Ed25519.
-- Suporte: Discord.
-- Infraestrutura desejada: sem servidor próprio ou hospedagem paga.
+## Recursos
 
-## Documentos
+### Temporizadores
+- Temporizadores personalizáveis.
+- Controles por teclado e gamepad.
+- Ajuste de duração, cores, ícones e sons.
+- Posicionamento individual dos overlays.
 
-- [Guia passo a passo](01_GUIA_PASSO_A_PASSO.md)
-- [Checklist pré-lançamento](02_CHECKLIST_PRE_LANCAMENTO.md)
-- [Termo de licença — rascunho](03_TERMO_DE_LICENCA_RASCUNHO.md)
-- [Aviso de privacidade — rascunho](04_AVISO_DE_PRIVACIDADE_RASCUNHO.md)
-- [Política de venda por Pix e reembolso — rascunho](05_POLITICA_DE_VENDA_PIX_E_REEMBOLSO_RASCUNHO.md)
-- [Controle manual de pedidos](06_CONTROLE_MANUAL_DE_PEDIDOS.csv)
-- [Consulta à Behaviour Interactive](07_CONSULTA_A_BEHAVIOUR.md)
-- [Modelo de mensagem ao cliente](08_MODELO_DE_MENSAGEM_AO_CLIENTE.md)
-- [Fontes e pendências](09_FONTES_E_PENDENCIAS.md)
-- [Consulta tributária — Barueri](10_CONSULTA_TRIBUTARIA_BARUERI.md)
+### Detecção automática
+- Identificação automática de eventos relacionados aos sobreviventes.
+- Temporizadores automáticos por posição do HUD.
+- Monitoramento do jogo em primeiro plano.
+- Captura otimizada para reduzir o consumo de recursos.
+
+### Winstreak
+- Acompanhamento de sequências de vitórias.
+- Registro de resultados.
+- Overlay independente para transmissões.
+
+### Placar de Confronto
+- Personalização dos times.
+- Controle de pontuação.
+- Configuração de sets e Killers.
+- Exibição competitiva para OBS.
+
+### Overlay 1v1
+- Configurações próprias para confrontos.
+- Personalização visual.
+- Integração com OBS Studio.
+
+## Integração com OBS Studio
+
+Os widgets compatíveis são disponibilizados por meio de fontes de navegador, utilizando a infraestrutura local do aplicativo.
+
+Isso permite apresentar os overlays aos espectadores sem criar janelas adicionais sobre o jogo.
+
+## Instalação
+
+1. Baixe o instalador disponível na seção **Releases**.
+2. Execute o instalador do DBD Multi Overlays.
+3. Abra o aplicativo.
+4. Configure os overlays e os recursos desejados.
+5. Adicione os widgets compatíveis como fontes de navegador no OBS Studio.
+
+## Licenciamento
+
+O aplicativo utiliza um sistema de licenciamento offline.
+
+A ativação é realizada por meio de um arquivo de licença individual, validado localmente pelo aplicativo.
+
+A licença comercial pretendida é perpétua e destinada a um computador por vez, conforme as condições de aquisição.
+
+## Suporte
+
+Dúvidas, problemas técnicos e solicitações de suporte:
+
+**Discord:** [ADICIONE AQUI O LINK DO SEU SERVIDOR]
 
 ## Aviso
 
-Os documentos jurídicos são rascunhos, não aconselhamento jurídico e não devem ser apresentados como termos finais. Não publique dados pessoais, comprovantes, identificadores de máquina, arquivos de licença de clientes, chaves privadas, configurações locais ou logs neste repositório.
+DBD Multi Overlays é um projeto independente e não possui associação, aprovação ou vínculo oficial com a Behaviour Interactive.
+
+Dead by Daylight e suas respectivas marcas pertencem aos seus proprietários.
+
