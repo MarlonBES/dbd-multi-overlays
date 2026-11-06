@@ -83,15 +83,22 @@ Confira algumas capturas reais das funcionalidades do aplicativo.
       <p align="center">Visualização do placar durante o confronto.</p>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">Placar 1v1</h3>
-      <p align="center">
-        <img src="./placar%201v1.png" alt="Overlay de placar 1v1" width="75%">
-      </p>
-      <p align="center">Placar dedicado ao acompanhamento de partidas 1v1.</p>
-    </td>
-  </tr>
+<tr>
+  <td width="50%" valign="top">
+    <h3 align="center">Placar 1v1</h3>
+    <p align="center">
+      <img src="./placar%201v1.png" alt="Overlay de placar 1v1" width="100%">
+    </p>
+    <p align="center">Placar dedicado ao acompanhamento de partidas 1v1.</p>
+  </td>
+  <td width="50%" valign="top">
+    <h3 align="center">Contador de DS-BT Automático</h3>
+    <p align="center">
+      <img src="./Contador%20de%20DS-BT%20Autom%C3%A1tico.png" alt="Contador de DS-BT Automático" width="100%">
+    </p>
+    <p align="center">Contagem automática de DS-BT.</p>
+  </td>
+</tr>
 </table>
 
 ---
