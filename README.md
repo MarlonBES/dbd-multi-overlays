@@ -120,7 +120,8 @@ Consulte o [guia de instalação](./installation.md) para instruções e observa
 
 ## Suporte
 
-Para dúvidas, orientações de instalação ou suporte, entre em contato pelo Discord: **MarliNNNBr**.
+Para dúvidas, orientações de instalação ou suporte, entre em contato pelo Discord: **MarliNNNBr**
+
 Ou em meu servidor: **https://discord.gg/mx2bAQpRpD**
 
 Antes de solicitar suporte, consulte a [solução de problemas](./troubleshooting.md) e as [perguntas frequentes](./faq.md).
