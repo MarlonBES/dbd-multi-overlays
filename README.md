@@ -6,7 +6,7 @@
 
 Um aplicativo para Windows que reúne ferramentas de acompanhamento, personalização e overlays para suas partidas e transmissões.
 
-<img src="./winstreak%20overlay%20app.png" alt="Painel do DBD Multi Overlays" width="900">
+<img src="./capa.png" alt="Painel do DBD Multi Overlays" width="900">
 
 <p>
   <a href="#recursos">Recursos</a> ·
