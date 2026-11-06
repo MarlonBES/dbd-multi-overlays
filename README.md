@@ -113,14 +113,15 @@ Os guias estão disponíveis diretamente neste repositório:
 
 - Windows 10 ou Windows 11, 64 bits.
 - Dead by Daylight configurado em modo janela sem bordas para os recursos que dependem da captura do HUD.
-- OBS Studio para utilizar os overlays em transmissões.
-- Controle compatível com XInput para os recursos de gamepad.
+- (opcional) OBS Studio para utilizar os overlays em transmissões.
+- (opcional) Controle compatível com XInput para os recursos de gamepad.
 
 Consulte o [guia de instalação](./installation.md) para instruções e observações adicionais.
 
 ## Suporte
 
 Para dúvidas, orientações de instalação ou suporte, entre em contato pelo Discord: **MarliNNNBr**.
+Ou em meu servidor: **https://discord.gg/mx2bAQpRpD**
 
 Antes de solicitar suporte, consulte a [solução de problemas](./troubleshooting.md) e as [perguntas frequentes](./faq.md).
 
@@ -130,7 +131,7 @@ DBD Multi Overlays é um projeto independente e não é afiliado, patrocinado ou
 
 Dead by Daylight e seus elementos visuais pertencem aos respectivos titulares. Os retratos de personagens utilizados no aplicativo são creditados à Behaviour Interactive.
 
-O aplicativo não realiza leitura de memória do jogo nem injeção de código. Isso não constitui garantia de aprovação ou ausência de restrições por sistemas antitrapaça. O usuário é responsável por observar os termos e regras aplicáveis ao jogo e às plataformas utilizadas.
+O aplicativo não realiza leitura de memória do jogo nem injeção de código.
 
 ---
 
