@@ -131,7 +131,7 @@ DBD Multi Overlays é um projeto independente e não é afiliado, patrocinado ou
 
 Dead by Daylight e seus elementos visuais pertencem aos respectivos titulares. Os retratos de personagens utilizados no aplicativo são creditados à Behaviour Interactive.
 
-O aplicativo não realiza leitura de memória do jogo nem injeção de código. Isso não constitui garantia de aprovação ou ausência de restrições por sistemas antitrapaça. O usuário é responsável por observar os termos e regras aplicáveis ao jogo e às plataformas utilizadas.
+O aplicativo não realiza leitura de memória do jogo nem injeção de código.
 
 ---
 
