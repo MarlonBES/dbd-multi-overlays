@@ -4,7 +4,7 @@
 
 **Ferramentas, temporizadores e overlays para Dead by Daylight.**
 
-Um aplicativo para Windows que reúne ferramentas de acompanhamento, personalização e overlays para suas partidas e transmissões.
+Um aplicativo que reúne ferramentas de acompanhamento, personalização e overlays para suas partidas e transmissões.
 
 <img src="./capa.png" alt="Painel do DBD Multi Overlays" width="900">
 
@@ -22,9 +22,9 @@ Um aplicativo para Windows que reúne ferramentas de acompanhamento, personaliza
 
 ## Sobre o aplicativo
 
-O **DBD Multi Overlays** é um aplicativo para Windows desenvolvido para jogadores de Dead by Daylight que desejam personalizar sua experiência e apresentar informações durante transmissões.
+O **DBD Multi Overlays** é um aplicativo para Windows desenvolvido para jogadores competitivos de Dead by Daylight que desejam personalizar sua experiência e apresentar informações durante transmissões.
 
-O aplicativo reúne temporizadores, detecção automática, Winstreak, overlays de Killer, placares e ferramentas de personalização, com integração ao OBS Studio.
+O aplicativo reúne temporizadores, detecção automática de gancho, overlays de Winstreak, overlays de Killer, placares de confronto e ferramentas de personalização, com integração ao OBS Studio.
 
 ## Recursos
 
@@ -34,11 +34,10 @@ Crie temporizadores personalizados e ajuste duração, cores, ícones e sons. Os
 
 ### Detecção automática
 
-A detecção automática identifica a posição dos ganchos dos sobreviventes no HUD e auxilia no acompanhamento dos estados de Ataque Decisivo (DS) e Resistência (Endurance), com suporte aos slots J1–J4.
-
+A detecção automática identifica a posição dos ganchos dos sobreviventes no HUD e auxilia no acompanhamento dos estados de Ataque Decisivo (DS) e Resistência (Endurance), com suporte aos slots dos quatro sobreviventes.
 ### Winstreak
 
-Acompanhe sequências de vitórias, registre resultados e visualize recordes por Killer. Personalize a apresentação do overlay, incluindo título, imagem, cores e o campo opcional **Tipo de Streak**.
+Acompanhe sequências de vitórias, registre resultados e visualize recordes por Killer e sobrevivente. Personalize a apresentação do overlay animado, incluindo título, imagem, cores e o campo opcional **Tipo de Streak**.
 
 ### Killer Overlay e Overlay Unificado
 
